@@ -7,12 +7,35 @@ Este projeto é um portfólio desenvolvido com HTML e CSS e JavaScript criado co
 
 O objetivo principal deste projeto, proposto pelo professor João Ferreira, é colocar em prática os conhecimentos adquiridos no Curso de Desenvolvimento Full Stack da Treina Recife. A atividade visa exercitar habilidades fundamentais no desenvolvimento web, como a criação de layouts com **HTML e CSS**, a implementação de interatividade com **JavaScript** e o planejamento de um portfólio profissional.
 
-Além disso, este projeto incentiva a aplicação de boas práticas de desenvolvimento, como organização de código, estruturação de conteúdo e atenção aos detalhes no design responsivo, preparando os alunos para desafios reais do mercado de trabalho.
+Além disso, este projeto incentiva a aplicação de boas práticas de desenvolvimento, como organização de código, estruturação de conteúdo e atenção aos detalhes no design responsivo, preparando os alunos para desafios reais do
+mercado de trabalho.
+
+## ⚙️ Pré-requisitos
+
+Antes de começar, certifique-se de ter o seguinte instalado na sua máquina:
+
+- [GitHub Desktop](https://desktop.github.com/) (ou outra ferramenta para clonar repositórios).
+- Um navegador atualizado (como Google Chrome, Firefox, Edge, etc.).
+- Um editor de código (recomendado: [Visual Studio Code](https://code.visualstudio.com/)).
+
+### Passos para rodar o projeto:
+
+1. Faça o download do repositório:
+   - Abra o [GitHub Desktop](https://desktop.github.com/).
+   - Clique em **File > Clone Repository**.
+   - Insira a URL do repositório: `https://github.com/JoaoLCardozo/MeuPortfolio.git`.
+   - Escolha o local onde o projeto será salvo e clique em **Clone**.
+
+2. Navegue até o diretório onde o projeto foi salvo e abra o arquivo `index.html` no navegador ou utilize uma extensão de live server no editor para rodar o projeto.
+
+
+Agora você pode explorar o portfólio e personalizá-lo como quiser!
 
 ## 🛠️ Tecnologias Utilizadas
 
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## ✒️ Colaboradores
 
